@@ -2,5 +2,5 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| n/a | [Example Agreement](https://github.com/CodePact/au-simple-services/blob/master/au-simple-services.md) |Example Agreement Purpose  | [CodePact](http://github.com/codepact) |
-| Australia | [Simple Services Agreement](https://github.com/CodePact/au-simple-services/blob/master/au-simple-services.md) |Simple Services Agreement Purpose | [CodePact](http://github.com/codepact) |
+| Global | Example Agreement | https://github.com/CodePact/agreement-example | [CodePact](http://github.com/codepact) |
+| Australia | Simple Services Agreement | https://github.com/CodePact/au-simple-services | [CodePact](http://github.com/codepact) |
