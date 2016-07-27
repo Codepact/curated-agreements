@@ -10,3 +10,4 @@
 | Australia | [Simple Services Agreement](https://github.com/CodePact/au-simple-services/blob/master/au-simple-services.md) | This agreement is a simple document for the provision of services.| [CodePact](http://github.com/codepact) |
 | Australia | [Privacy Policy](https://github.com/CodePact/au-privacy-policy/blob/master/privacy-policy.md) | This document creates a Privacy Policy.| [CodePact](http://github.com/codepact) |
 | Australia | [Non Disclosure Agreement](https://github.com/CodePact/au-non-disclosure/blob/master/au-non-disclosure-agreement.md) | This template creates a Non Disclosure Agreement.| [CodePact](http://github.com/codepact) |
+| Australia | [Software Licence](https://github.com/CodePact/au-software-licence/blob/master/au-software-licence.md) | This template creates a licence for more traditional non-web software.| [CodePact](http://github.com/codepact) |
