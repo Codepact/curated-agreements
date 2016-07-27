@@ -8,3 +8,4 @@
 | Australia | [Software Development Agreement](https://github.com/CodePact/au-software-development/blob/master/au-software-development.md) | This agreement is for software development work.| [CodePact](http://github.com/codepact) |
 | Australia | [Technology Services Agreement](https://github.com/CodePact/au-technology-services/blob/master/au-technology-services-agreement.md) | This agreement is for the provision of technology services.| [CodePact](http://github.com/codepact) |
 | Australia | [Simple Services Agreement](https://github.com/CodePact/au-simple-services/blob/master/au-simple-services.md) | This agreement is a simple document for the provision of services.| [CodePact](http://github.com/codepact) |
+| Australia | [Privacy Policy](https://github.com/CodePact/au-privacy-policy/blob/master/privacy-policy.md) | This document creates a Privacy Policy.| [CodePact](http://github.com/codepact) |
