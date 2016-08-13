@@ -2,6 +2,8 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
+| Australia | [Asteroid Mining Agreement](https://github.com/CodePact/tutorial-agreement/blob/master/space-mining.md) | This agreement is for an asteroid mining contractor, or if you're not into that, a tutorial.| [CodePact](http://github.com/codepact) |
+| Australia | [Simple Technology Services Agreement](https://github.com/CodePact/au-simple-technology-services/blob/master/au-simple-technology-services.md) | An agreement covering the essentials for technology services.| [CodePact](http://github.com/codepact) |
 | Australia | [Software as a Service Agreement](https://github.com/CodePact/au-software-as-a-service/blob/master/au-saas-agreement.md) | This agreement is for a software as a service product.| [CodePact](http://github.com/codepact) |
 | Australia | [Interface Use Terms](https://github.com/CodePact/au-interface-use/blob/master/au-interface-terms.md) | This agreement is for a website or mobile device application.| [CodePact](http://github.com/codepact) |
 | Australia | [Software Development Agreement](https://github.com/CodePact/au-software-development/blob/master/au-software-development.md) | This agreement is for software development work.| [CodePact](http://github.com/codepact) |
