@@ -12,3 +12,4 @@
 | Australia | [Simple Services Agreement](https://github.com/CodePact/au-simple-services/blob/master/au-simple-services.md) | You provide services and want coverage.| [Codepact](http://github.com/codepact) |
 | Australia | [Privacy Policy](https://github.com/CodePact/au-privacy-policy/blob/master/privacy-policy.md) | You need a Privacy Policy to explain how you handle information about people.| [Codepact](http://github.com/codepact) |
 | Australia | [Software Licence](https://github.com/CodePact/au-software-licence/blob/master/au-software-licence.md) | You create software and people install it on their own computer or server.| [Codepact](http://github.com/codepact) |
+| United Kingdom | [Simple Services Agreement](https://github.com/Codepact/uk-simple-services/blob/master/uk-simple-services.md) | You provide services and want coverage.| [Codepact](http://github.com/codepact) |
