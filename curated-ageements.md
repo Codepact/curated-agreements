@@ -12,3 +12,5 @@
 | England Wales | [Interface Use Terms](https://github.com/Codepact/interface-use-terms/blob/master/interface-use-terms.md) | You provide web based software and store user data.| [Codepact](http://github.com/codepact) |
 | Australia | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/master/technology-services.md) | You provide web based software or store data.| [Codepact](http://github.com/codepact) |
 | England Wales | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/master/technology-services.md) | You provide web based software or store data.| [Codepact](http://github.com/codepact) |
+| Australia | [Non Disclosure Agreement](https://github.com/Codepact/non-disclosure/blob/master/non-disclosure.md) | You need to disclose information and want the recipient to keep it secret.| [Codepact](http://github.com/codepact) |
+| England Wales | [Non Disclosure Agreement](https://github.com/Codepact/non-disclosure/blob/master/non-disclosure.md) | You need to disclose information and want the recipient to keep it secret.| [Codepact](http://github.com/codepact) |
