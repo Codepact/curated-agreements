@@ -14,3 +14,5 @@
 | England Wales | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/master/technology-services.md) | You provide web based software or store data.| [Codepact](http://github.com/codepact) |
 | Australia | [Non Disclosure Agreement](https://github.com/Codepact/non-disclosure/blob/master/non-disclosure.md) | You need to disclose information and want the recipient to keep it secret.| [Codepact](http://github.com/codepact) |
 | England Wales | [Non Disclosure Agreement](https://github.com/Codepact/non-disclosure/blob/master/non-disclosure.md) | You need to disclose information and want the recipient to keep it secret.| [Codepact](http://github.com/codepact) |
+| Australia | [Software Licence](https://github.com/Codepact/software-license/blob/master/software-license.md) |You create software and people install it on their own computer or server. | [Codepact](http://github.com/codepact) |
+| England Wales | [Software License](https://github.com/Codepact/software-license/blob/master/software-license.md) |You create software and people install it on their own computer or server.| [Codepact](http://github.com/codepact) |
