@@ -14,6 +14,9 @@
 | Australia     | [Hosting Agreement](https://github.com/Codepact/hosting/blob/master/hosting.md) | Deals with hosting services for software and websites. | [Codepact](http://github.com/codepact) |
 | England Wales | [Hosting Agreement](https://github.com/Codepact/hosting/blob/master/hosting.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Hosting Agreement](https://github.com/Codepact/hosting/blob/master/hosting.md) | [*] | [Codepact](http://github.com/codepact) |
+| Australia     | [Consulting Agreement](https://github.com/Codepact/consulting/blob/master/consulting.md) | Deals with services by a consultant to a client. | [Codepact](http://github.com/codepact) |
+| England Wales | [Consulting Agreement](https://github.com/Codepact/consulting/blob/master/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Consulting Agreement](https://github.com/Codepact/consulting/blob/master/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/settings/branches/master/non-disclosure-one-way.md) | Deals with keeping information disclosures by one party to another party secret.| [Codepact](http://github.com/codepact) |
 | England Wales | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/settings/branches/master/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/settings/branches/master/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
