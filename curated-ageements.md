@@ -14,9 +14,9 @@
 | Australia     | [Hosting Agreement](https://github.com/Codepact/hosting/blob/rules/hosting.md) | Deals with hosting services for software and websites. | [Codepact](http://github.com/codepact) |
 | England Wales | [Hosting Agreement](https://github.com/Codepact/hosting/blob/rules/hosting.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Hosting Agreement](https://github.com/Codepact/hosting/blob/rules/hosting.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Support & Maintenance Agreement](https://github.com/Codepact/hosting/blob/rules/support-maintenance.md) | Deals with technology support and maintenance. | [Codepact](http://github.com/codepact) |
-| England Wales | [Support & Maintenance Agreement](https://github.com/Codepact/hosting/blob/rules/support-maintenance.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Support & Maintenance Agreement](https://github.com/Codepact/hosting/blob/rules/support-maintenance.md) | [*] | [Codepact](http://github.com/codepact) |
+| Australia     | [Support & Maintenance Agreement](https://github.com/Codepact/support-maintenance/blob/rules/support-maintenance.md) | Deals with technology support and maintenance. | [Codepact](http://github.com/codepact) |
+| England Wales | [Support & Maintenance Agreement](https://github.com/Codepact/support-maintenance/blob/rules/support-maintenance.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Support & Maintenance Agreement](https://github.com/Codepact/support-maintenance/blob/rules/support-maintenance.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | Deals with services by a consultant to a client. | [Codepact](http://github.com/codepact) |
 | England Wales | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
