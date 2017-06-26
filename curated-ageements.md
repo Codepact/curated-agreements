@@ -26,9 +26,9 @@
 | Australia     | [Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/settings/branches/rules/non-disclosure-mutual.md) | Deals with keeping information disclosures by two parties to each other secret.| [Codepact](http://github.com/codepact) |
 | England Wales | [Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/settings/branches/rules/non-disclosure-mutual.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/settings/branches/rules/non-disclosure-mutual.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Interface Use Agreement](https://github.com/Codepact/interface-use-terms/blob/rules/interface-use-terms.md) | Deals with e-commerce, the use of a website or mobile device application, usually by a consumer.| [Codepact](http://github.com/codepact) |
-| England Wales | [Interface Use Agreement](https://github.com/Codepact/interface-use-terms/blob/rules/interface-use-terms.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Interface Use Agreement](https://github.com/Codepact/interface-use-terms/blob/rules/interface-use-terms.md) | [*] | [Codepact](http://github.com/codepact) |
+| Australia     | [Interface Use Agreement](https://github.com/Codepact/interface-use-terms/blob/rules/interface-use.md) | Deals with e-commerce, the use of a website or mobile device application, usually by a consumer.| [Codepact](http://github.com/codepact) |
+| England Wales | [Interface Use Agreement](https://github.com/Codepact/interface-use-terms/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Interface Use Agreement](https://github.com/Codepact/interface-use-terms/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
 | England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
