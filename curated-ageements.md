@@ -8,9 +8,6 @@
 | Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with web based subscription enterprise software that stores customer data. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | A simple, generally applicable document to cover the provision of services of all kinds. | [Codepact](http://github.com/codepact) |
-| England Wales | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Hosting Agreement](https://github.com/Codepact/hosting/blob/rules/hosting.md) | Deals with hosting services for software and websites. | [Codepact](http://github.com/codepact) |
 | England Wales | [Hosting Agreement](https://github.com/Codepact/hosting/blob/rules/hosting.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Hosting Agreement](https://github.com/Codepact/hosting/blob/rules/hosting.md) | [*] | [Codepact](http://github.com/codepact) |
@@ -29,12 +26,19 @@
 | Australia     | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | Deals with e-commerce, the use of a website or mobile device application, usually by a consumer.| [Codepact](http://github.com/codepact) |
 | England Wales | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
-| England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Policy](https://github.com/Codepact/privacy-policy/blob/rules/privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Notification Statement](https://github.com/Codepact/au-privacy-notification/blob/rules/au-privacy-notification.md) | A privacy notification statement for Australian organisations to bring to the attention of users.| [Codepact](http://github.com/codepact) |
 | Australia     | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | An empty agreement to "free draft" with.| [Codepact](http://github.com/codepact) |
 | England Wales | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | [*] | [Codepact](http://github.com/codepact) |
 
+
+
+// Old Repos
+
+| Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
+| England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
+| Australia     | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | A simple, generally applicable document to cover the provision of services of all kinds. | [Codepact](http://github.com/codepact) |
+| England Wales | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
