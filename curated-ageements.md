@@ -36,9 +36,9 @@
 
 // Old Repos
 
-| Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
-| England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
+Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
+England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | A simple, generally applicable document to cover the provision of services of all kinds. | [Codepact](http://github.com/codepact) |
-| England Wales | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
+Australia     | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | A simple, generally applicable document to cover the provision of services of all kinds. | [Codepact](http://github.com/codepact) |
+England Wales | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
+United States | [Simple Services Agreement](https://github.com/Codepact/simple-services/blob/rules/simple-services.md) | [*] | [Codepact](http://github.com/codepact) |
