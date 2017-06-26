@@ -34,12 +34,6 @@
 | United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Policy](https://github.com/Codepact/au-privacy-policy/blob/rules/au-privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Notification Statement](https://github.com/Codepact/au-privacy-notification/blob/rules/au-privacy-notification.md) | A privacy notification statement for Australian organisations to bring to the attention of users.| [Codepact](http://github.com/codepact) |
-| Australia     | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/rules/technology-services.md) | You provide web based software or store data.| [Codepact](http://github.com/codepact) |
-| England Wales | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/rules/technology-services.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/rules/technology-services.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Simple Technology Services Agreement](https://github.com/Codepact/simple-technology-services/blob/rules/simple-technology-services.md) |A super short agreement for delivering simple tech services. | [Codepact](http://github.com/codepact) |
-| England Wales | [Simple Technology Services Agreement](https://github.com/Codepact/simple-technology-services/blob/rules/simple-technology-services.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Simple Technology Services Agreement](https://github.com/Codepact/simple-technology-services/blob/rules/simple-technology-services.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | An empty agreement to "free draft" with.| [Codepact](http://github.com/codepact) |
 | England Wales | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | [*] | [Codepact](http://github.com/codepact) |
