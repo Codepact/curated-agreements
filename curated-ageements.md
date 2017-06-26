@@ -32,7 +32,7 @@
 | Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
 | England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Privacy Policy](https://github.com/Codepact/au-privacy-policy/blob/rules/privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
+| Australia     | [Privacy Policy](https://github.com/Codepact/au-privacy-policy/blob/rules/au-privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Notification Statement](https://github.com/Codepact/au-privacy-notification/blob/rules/au-privacy-notification.md) | A privacy notification statement for Australian organisations to bring to the attention of users.| [Codepact](http://github.com/codepact) |
 | Australia     | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/rules/technology-services.md) | You provide web based software or store data.| [Codepact](http://github.com/codepact) |
 | England Wales | [Technology Services Agreement](https://github.com/Codepact/technology-services/blob/rules/technology-services.md) | [*] | [Codepact](http://github.com/codepact) |
