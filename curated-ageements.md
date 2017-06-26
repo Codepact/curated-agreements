@@ -2,9 +2,6 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| Australia     | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | Deals with a developer building software for a client.| [Codepact](http://github.com/codepact) |
-| England Wales | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with web based subscription enterprise software that stores customer data. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
@@ -36,6 +33,9 @@
 
 // Old Repos - Add a pipe to the front of each to make sure that this gets parsed as part of the table.
 
+Australia     | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | Deals with a developer building software for a client.| [Codepact](http://github.com/codepact) |
+England Wales | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | [*] | [Codepact](http://github.com/codepact) |
+United States | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | [*] | [Codepact](http://github.com/codepact) |
 Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
 England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
