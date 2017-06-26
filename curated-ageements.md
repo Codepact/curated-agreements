@@ -18,11 +18,11 @@
 | England Wales | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | Deals with keeping information disclosures by one party to another party secret.| [Codepact](http://github.com/codepact) |
-| England Wales | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | Deals with keeping information disclosures by two parties to each other secret.| [Codepact](http://github.com/codepact) |
-| England Wales | [Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | [*] | [Codepact](http://github.com/codepact) |
+| England Wales | [Non Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Non Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
+| Australia     | [Non Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | Deals with keeping information disclosures by two parties to each other secret.| [Codepact](http://github.com/codepact) |
+| England Wales | [Non Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | [*] | [Codepact](http://github.com/codepact) |
+| United States | [Non Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | Deals with e-commerce, the use of a website or mobile device application, usually by a consumer.| [Codepact](http://github.com/codepact) |
 | England Wales | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
@@ -34,7 +34,7 @@
 
 
 
-// Old Repos
+// Old Repos - Add a pipe to the front of each to make sure that this gets parsed as part of the table.
 
 Australia     | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | Deals with licensing software for install on workstations or servers. | [Codepact](http://github.com/codepact) |
 England Wales | [Software Licence](https://github.com/Codepact/software-license/blob/rules/software-license.md) | [*] | [Codepact](http://github.com/codepact) |
