@@ -2,7 +2,6 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| Australia     | [Release Test Document](https://github.com/Codepact/release-test/blob/master/software-development.md) | Deals with release testing | [Codepact](http://github.com/codepact) |
 | Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with web based subscription enterprise software that stores customer data. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
