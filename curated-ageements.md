@@ -35,7 +35,3 @@
 | United States | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Policy](https://github.com/Codepact/privacy-policy/blob/rules/privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Notification Statement](https://github.com/Codepact/au-privacy-notification/blob/rules/au-privacy-notification.md) | A privacy notification statement for Australian organisations to bring to the attention of users.| [Codepact](http://github.com/codepact) |
-| Australia     | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | An empty agreement to "free draft" with.| [Codepact](http://github.com/codepact) |
-| England Wales | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | [*] | [Codepact](http://github.com/codepact) |
-| United States | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/rules/starter-agreement.md) | [*] | [Codepact](http://github.com/codepact) |
-
