@@ -2,7 +2,6 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| Australia     | [Release Test Document](https://github.com/Codepact/release-test/blob/master/software-development.md) | Deals with release testing | [Codepact](http://github.com/codepact) |
 | Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with web based subscription enterprise software that stores customer data. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
@@ -35,3 +34,4 @@
 | United States | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/rules/interface-use.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Policy](https://github.com/Codepact/privacy-policy/blob/rules/privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Notification Statement](https://github.com/Codepact/au-privacy-notification/blob/rules/au-privacy-notification.md) | A privacy notification statement for Australian organisations to bring to the attention of users.| [Codepact](http://github.com/codepact) |
+
