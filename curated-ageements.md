@@ -2,7 +2,7 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with web based subscription enterprise software that stores customer data. | [Codepact](http://github.com/codepact) |
+| Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with 'software as a service', which is usually web based subscription enterprise software. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | Deals with a developer building software for a client.| [Codepact](http://github.com/codepact) |
@@ -23,7 +23,7 @@
 | Australia     | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | Deals with services by a consultant to a client. | [Codepact](http://github.com/codepact) |
 | England Wales | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Consulting Agreement](https://github.com/Codepact/consulting/blob/rules/consulting.md) | [*] | [Codepact](http://github.com/codepact) |
-| Australia     | [Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | Deals with keeping information disclosures by one party to another party secret.| [Codepact](http://github.com/codepact) |
+| Australia     | [Non Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | Deals with keeping information disclosures by one party to another party secret.| [Codepact](http://github.com/codepact) |
 | England Wales | [Non Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [Non Disclosure Agreement - One Way](https://github.com/Codepact/non-disclosure-one-way/blob/rules/non-disclosure-one-way.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Non Disclosure Agreement - Mutual](https://github.com/Codepact/non-disclosure-mutual/blob/rules/non-disclosure-mutual.md) | Deals with keeping information disclosures by two parties to each other secret.| [Codepact](http://github.com/codepact) |
