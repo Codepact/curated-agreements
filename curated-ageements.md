@@ -2,7 +2,7 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with 'software as a service', which is usually web based, subscription enterprise software. | [Codepact](http://github.com/codepact) |
+| Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | Deals with 'software as a service', which is usually web-based enterprise software offered on a subscription basis. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/rules/saas.md) | [*] | [Codepact](http://github.com/codepact) |
 | Australia     | [Software Development Agreement](https://github.com/Codepact/software-development/blob/rules/software-development.md) | Deals with a developer building software for a client.| [Codepact](http://github.com/codepact) |
