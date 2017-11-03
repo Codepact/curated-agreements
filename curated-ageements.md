@@ -2,9 +2,6 @@
 
 | Jurisdiction | Agreement |  Purpose | Author |
 | ------------- | ------------- |------------- |------------- |
-| Australia  | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/master/starter-agreement.md) | An example agreement to show Codepact users how agreements work on Codepact | [Codepact](http://github.com/codepact) |
-| England Wales | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/master/starter-agreement.md) | An example agreement to show Codepact users how agreements work on Codepact | [Codepact](http://github.com/codepact) |
-| United States |  [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/master/starter-agreement.md) | An example agreement to show Codepact users how agreements work on Codepact | [Codepact](http://github.com/codepact) |
 | Australia     | [SaaS Agreement](https://github.com/Codepact/saas/blob/master/saas.md) | Deals with 'software as a service', which is usually web-based enterprise software offered on a subscription basis. | [Codepact](http://github.com/codepact) |
 | England Wales | [SaaS Agreement](https://github.com/Codepact/saas/blob/master/saas.md) | Deals with 'software as a service', which is usually web-based enterprise software offered on a subscription basis. | [Codepact](http://github.com/codepact) |
 | United States | [SaaS Agreement](https://github.com/Codepact/saas/blob/master/saas.md) | Deals with 'software as a service', which is usually web-based enterprise software offered on a subscription basis. | [Codepact](http://github.com/codepact) |
@@ -37,4 +34,7 @@
 | United States | [Interface Use Agreement](https://github.com/Codepact/interface-use/blob/master/interface-use.md) | Deals with the 'terms of use' for websites and mobile device apps, inlcuding e-commerce sites. | [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Policy](https://github.com/Codepact/privacy-policy/blob/master/privacy-policy.md) | An Australian privacy policy to inform people how a business deals with personal information.| [Codepact](http://github.com/codepact) |
 | Australia     | [Privacy Notification Statement](https://github.com/Codepact/au-privacy-notification/blob/master/au-privacy-notification.md) | A privacy notification statement for Australian organisations to bring to the attention of users.| [Codepact](http://github.com/codepact) |
+| Australia  | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/master/starter-agreement.md) | An example agreement to show Codepact users how agreements work on Codepact | [Codepact](http://github.com/codepact) |
+| England Wales | [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/master/starter-agreement.md) | An example agreement to show Codepact users how agreements work on Codepact | [Codepact](http://github.com/codepact) |
+| United States |  [Starter Agreement](https://github.com/Codepact/starter-agreement/blob/master/starter-agreement.md) | An example agreement to show Codepact users how agreements work on Codepact | [Codepact](http://github.com/codepact) |
 
